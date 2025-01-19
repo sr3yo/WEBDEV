@@ -1,0 +1,49 @@
+body{
+    background-color:black;
+    font-family:sans-serif
+}
+
+
+#firstName{
+    font-size: 150%;
+    color: #F4D35E;
+    text-align: center;
+    letter-spacing: 3px;
+    padding-top: 15%;
+}
+
+#secondName{
+    font-size: 150%;
+    color: #F4D35E;
+    text-align: center;
+    letter-spacing: 3px;
+    margin-top: -40px;
+    
+    
+}
+
+#info{  
+    color: white;
+    text-align: center;
+    font-variant-caps: petite-caps;
+    
+}
+
+#navContainer{
+    display: flex;
+    align-items: center;
+    padding-left: 45.7%;
+}
+
+#info img{
+    filter: grayscale(100%);
+    margin-left: -30px;
+    margin-top: -50px;
+
+}
+
+
+
+
+
+
